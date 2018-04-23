@@ -106,7 +106,7 @@ Senior Researcher (Open Science) in the Social Computing research group at Know-
 * 2016,	Open Peer Review: Models, Benefits And Limitations workshop, Göttingen 7th June 2016, co-located with ELPUB 2016 (lead organiser)
 * 2010,	Mediated Memory: Of Monuments, Machines and Madeleines workshop, Glasgow, 29 January 2010 (lead organiser)
 
-# dditional Information
+# Additional Information
 * Languages: English (native speaker), German (fluent)
 * IT/Coding: MS Office, Adobe Creative Suite, plus some experience HTML, CSS, R, RDF
 	
