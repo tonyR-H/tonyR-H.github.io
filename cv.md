@@ -1,13 +1,16 @@
 **Profile**
+
 Senior Researcher (Open Science) in the Social Computing research group at Know-Center, Graz, Austria. Editor-in-Chief of the Open Access journal Publications. PhD in Information Studies (University of Glasgow, 2012), MA (Philosophy) and MSc (Information and Library Studies). Actively involved in Open Science advocacy and community-building. Core member of Research Data Alliance Austria (Auditor) and Open Access Network Austria. Three-time OpenCon alumnus. Formerly Scientific Manager for OpenAIRE at the University of Goettingen. Managed OpenAIRE’s outreach, scientific direction and coordination of its pan-European network of National Open Access Desks (NOADs). Enthusiastic advocate of Open Access and Open Science whose research interests include Open Science models and infrastructures, science policy, alternative models for peer review, and philosophy of technology. 
 
 **Education**
-2008-2012	PhD, summa cum laude, Information Studies, University of Glasgow, UK
-*Thesis title: ‘Correspondents Theory 1800/2000: philosophical reflections upon epistolary technics and praxis in the analogue and digital’ 
-*Supervisors: Michael Moss & Susan Stuart
-*Examiners: Peter-Paul Verbeek (Twente) & Alison Wiggins (Glasgow)
-*Thesis assessed as “excellent” and passed without corrections
-*DOI: 10.5281/ZENODO.13889, URL: http://theses.gla.ac.uk/3146/
+
+2008-2012, PhD, summa cum laude, Information Studies, University of Glasgow, UK
+
+* Thesis title: ‘Correspondents Theory 1800/2000: philosophical reflections upon epistolary technics and praxis in the analogue and digital’ 
+* Supervisors: Michael Moss & Susan Stuart
+* Examiners: Peter-Paul Verbeek (Twente) & Alison Wiggins (Glasgow)
+* Thesis assessed as “excellent” and passed without corrections
+* DOI: 10.5281/ZENODO.13889, URL: http://theses.gla.ac.uk/3146/
 
 2006-2007	MSc, with distinction, Information & Library Studies, University of Strathclyde, UK 
 *Modules: information retrieval; cataloguing and classification; information and copyright law; digital archiving and preservation; management and marketing
