@@ -12,6 +12,5 @@ Find me on Twitter at [@tonyR_H](http://twitter.com/tonyR_H).
 
 ## Links
 - [CV](cv.md "CV")
-- [Publications](_)
-- [Open peer review](_)
+
 
